@@ -1,0 +1,25 @@
+[0.353s] Invoking command in '/home/oda/RoboSys/ros2_ws/src/mypkg': PYTHONPATH=/home/oda/RoboSys/ros2_ws/install/mypkg/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/oda/RoboSys/ros2_ws/build/mypkg/build install --prefix /home/oda/RoboSys/ros2_ws/install/mypkg --record /home/oda/RoboSys/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.471s] running egg_info
+[0.472s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.472s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.472s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.472s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.473s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.492s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.492s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.492s] running build
+[0.493s] running build_py
+[0.493s] copying mypkg/talker.py -> /home/oda/RoboSys/ros2_ws/build/mypkg/build/lib/mypkg
+[0.493s] running install
+[0.493s] running install_lib
+[0.494s] copying /home/oda/RoboSys/ros2_ws/build/mypkg/build/lib/mypkg/talker.py -> /home/oda/RoboSys/ros2_ws/install/mypkg/lib/python3.6/site-packages/mypkg
+[0.494s] byte-compiling /home/oda/RoboSys/ros2_ws/install/mypkg/lib/python3.6/site-packages/mypkg/talker.py to talker.cpython-36.pyc
+[0.494s] running install_data
+[0.495s] running install_egg_info
+[0.496s] removing '/home/oda/RoboSys/ros2_ws/install/mypkg/lib/python3.6/site-packages/mypkg-0.0.0-py3.6.egg-info' (and everything under it)
+[0.496s] Copying ../../build/mypkg/mypkg.egg-info to /home/oda/RoboSys/ros2_ws/install/mypkg/lib/python3.6/site-packages/mypkg-0.0.0-py3.6.egg-info
+[0.497s] running install_scripts
+[0.508s] Installing listener script to /home/oda/RoboSys/ros2_ws/install/mypkg/lib/mypkg
+[0.508s] Installing talker script to /home/oda/RoboSys/ros2_ws/install/mypkg/lib/mypkg
+[0.508s] writing list of installed files to '/home/oda/RoboSys/ros2_ws/build/mypkg/install.log'
+[0.525s] Invoked command in '/home/oda/RoboSys/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/oda/RoboSys/ros2_ws/install/mypkg/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/oda/RoboSys/ros2_ws/build/mypkg/build install --prefix /home/oda/RoboSys/ros2_ws/install/mypkg --record /home/oda/RoboSys/ros2_ws/build/mypkg/install.log --single-version-externally-managed
